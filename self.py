@@ -138,7 +138,7 @@ mov_titles = [
     "localized title",
 ]
 
-# تابعی برای تبدیل اندازه به فرمت خوانا
+# foont changer
 def sizeof_fmt(num, suffix='B'):
     for unit in ['', 'K', 'M', 'G', 'T', 'P', 'E', 'Z']:
         if abs(num) < 1024.0:
