@@ -126,7 +126,7 @@ love = []
 fal = []
 mutey = []
 tabchitimer = []
-admin = 6564427484
+admin = 6311580121
 channel_username = "@Jack_self"
 imdb = IMDb()
 mov_titles = [
@@ -221,8 +221,8 @@ if_not_exist_creat("allUPLOAD_AUDIO.txt")
 if_not_exist_creat("allSPEAKING.txt")
 
 #_________________________Client___________________________________
-api_id = 99999 # ایپی ایدی
-api_hash = 'x' # ایپی هش
+api_id = 11640179 # ایپی ایدی
+api_hash = '5f8a5bec702456bb18d818d16e12806d' # ایپی هش
 app = Client("Jack", api_id, api_hash,device_model="Abc",system_version="Linux")
 client = Client("Jack", api_id, api_hash,device_model="Abc",system_version="Linux")
 
